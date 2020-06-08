@@ -1,6 +1,6 @@
 # EFT Downloader
  How to download latest eft game files
- Latest link (10/02/2020) : http://cdn-11.eft-store.com/ClientDistribs/0.12.3.5776_98e362b1-50de-4d1a-937c-8335c0d764d2/Client.0.12.3.5776.zip
+ Latest link (08/06/2020) : http://cdn-11.eft-store.com/ClientDistribs/0.12.6.7526_b31ebeab-f5ee-4bad-87a5-d2fdcd493239/Client.0.12.6.7526.zip
  
  Credits to maoci
  
